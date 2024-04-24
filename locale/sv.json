@@ -1,0 +1,73 @@
+{
+  "language": "Svenska",
+  "translate-quick-switch": "In English",
+
+
+  "navigation-aria-home": "Hem",
+  "navigation-aria-about-us": "Om oss",
+  "navigation-aria-articles": "Nyheter",
+  "navigation-aria-join-us": "Gå med",
+
+  "navigation-title": "Asgard",
+  "navigation-home": "Startsida",
+  "navigation-about-us": "Om oss",
+  "navigation-our-rules": "Våra regler",
+  "navigation-join-us": "Gå med här",
+  "navigation-articles": "Nyhets artiklar",
+  "navigation-sign-in": "Logga in här",
+  "navigation-our-discord": "Discord",
+  "navigation-our-twitch": "Twitch",
+  "navigation-our-youtube": "Youtube",
+  "navigation-settings": "Inställningar",
+  "navigation-settings-signout": "Logga ut",
+  "home-join-us": "Gå med här" ,
+  "home-our-rules": "Våra regler" ,
+  "home-about-us": "Om oss" ,
+  "home-sign-in": "Logga in här" ,
+  "join-us-sign-in-with-discord": "Logga in med Discord",
+  "join-us-title": "Tänk på detta innan du går med:",
+  "join-us-list-rules": {
+    "append": "Läs våra regler ",
+    "text": "här",
+    "to": "/information/rules",
+    "prepend": "."
+  },
+  "join-us-list-apply": {
+    "append": "Ansök om att gå med i organisationen ",
+    "text": "här",
+    "href": "https://robertsspaceindustries.com/orgs/ASGARD",
+    "prepend": "."
+  },
+  "join-us-list-discord": {
+    "append": "Gå med i vår discord genom ",
+    "text": "denna",
+    "href": "https://discord.com/invite/zs5humSzF7",
+    "prepend": " länk."
+  },
+
+  "article-navigation-title": "Nyhets artiklar",
+  "articles-read-more": "Läs mer",
+  "articles-not-found-title": "Inga artiklar hittades",
+  
+  "articles-empty-title": "Inga artikel hittades",
+
+  "about-us-title": "Om oss",
+
+  "about-us-goal-title": "Mål",
+  "about-us-goal-desc": "Organisationen ska vara kapabel till att hävda sina egna intressen och säkerställa de tillgångar som organisationen har till sitt förfogande. Vi ska kunna ta hand om de utmaningar som spelet har att erbjuda, oavsett om det är PeE eller PvP. Ett av de största utmaningarna som organisationen har att se fram emot är att hitta en plats bland stjärnorna som vi kan kalla vår det kommer vara här vi bygger våran bas.",
+  "about-us-departments-title": "Avdelningar",
+  "about-us-departments-desc": "För att uppnå våra mål kräver det att vi som organisation har avdelningar som kan utföra olika uppgifter. Vi behöver ha en militär förmåga som avvärja det hot som står i vår väg. En ekonomiskt avdelning som kan finna det tillgångar som vi behöver för att finansiera vår verksamhet utbyggnad. Vi kommer även att undersöka möjligheterna att ha en utforskningsavdelning när vi vet mer om det ansvarsområdet. Nedan kan ni se de planerade avdelningarna i Asgard.",
+  "about-us-odin-title": "Odin",
+  "about-us-odin-desc": "",
+  "about-us-njord-title": "",
+  "about-us-njord-desc": "",
+  "about-us-tyr-title": "Marinen - Tur",
+  "about-us-tyr-desc": "Att hävda Asgards intressen och säkerställa de tillgångar vi har till vårt förfogande är marinens främsta uppgift. Marinen ska se till att alla andra avdelningar skall gå ostörda i sitt arbete och när ett hot uppstår är det upp till denna avdelning att avvärja hotet.",
+  "about-us-idun-title": "Ekonomi - Idun",
+  "about-us-idun-desc": "Att ta hand, nyttja och sälja de tillgångar som Asgard både besitter och upptäcker i form av resurser är ekonomiavdelningens främsta uppgift. Ekonomiavdelningen jobbar med frakt, utbrytning av mineraler / gas och ta vara på råmaterialet från övergivna skepp. m.m",
+  "about-us-baldur-title": "",
+  "about-us-baldur-desc": "",
+  "about-us-structure-title": "Struktur",
+  "about-us-structure-desc": "För att en organisation ska fungera så måste den ha en struktur, för att de olika avdelningarna ska kunna samarbeta. I vår organisation har vi ett flexibelt ansvar, då varje ledare kan gå in i respektive avdelningar och styra om situationen kräver, t.ex.om en nyckelperson inte är anträffbar. Detta betyder att alla ledare är involverade i organisationen i sin helhet, I regel är förstås ambitionen att ha en avdelningsledare som endast fokuserar på en uppgift.",
+  "": "" 
+}

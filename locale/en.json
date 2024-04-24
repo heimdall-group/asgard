@@ -1,0 +1,62 @@
+{
+  "language": "English",
+  "translate-quick-switch": "In Swedish",
+  
+
+  "navigation-aria-home": "Home",
+  "navigation-aria-about-us": "About us",
+  "navigation-aria-articles": "News",
+  "navigation-aria-join-us": "Join",
+
+  "navigation-title": "Asgard",
+  "navigation-home": "Home",
+  "navigation-about-us": "About us",
+  "navigation-our-rules": "Our rules",
+  "navigation-join-us": "Join us",
+  "navigation-articles": "News articles",
+  "navigation-sign-in": "Sign in here",
+  "navigation-our-discord": "Discord",
+  "navigation-our-twitch": "Twitch",
+  "navigation-our-youtube": "Youtube",
+  "navigation-settings": "Settings",
+  "navigation-settings-signout": "Sign out",
+  "home-join-us": "Join us" ,
+  "home-our-rules": "Our rules" ,
+  "home-about-us": "About us" ,
+  "home-sign-in": "Sign in here" ,
+  "join-us-sign-in-with-discord": "Sign in with Discord",
+  "join-us-title": "Think about this before you apply:",
+  "join-us-list-rules": {
+    "append": "Read our rules ",
+    "text": "here",
+    "to": "/information/rules",
+    "prepend": "."
+  },
+  "join-us-list-apply": {
+    "append": "Apply to join the organisation ",
+    "text": "here",
+    "href": "https://robertsspaceindustries.com/orgs/ASGARD",
+    "prepend": "."
+  },
+  "join-us-list-discord": {
+    "append": "Join our discord",
+    "text": "here",
+    "href": "https://discord.com/invite/zs5humSzF7",
+    "prepend": "."
+  },
+
+  "article-navigation-title": "News articles",
+  "articles-read-more": "Read more",
+  "articles-not-found-title": "Articles not found",
+
+  "articles-empty-title": "No article found",
+
+  "about-us-title": "About us",
+  "about-us-odin": "",
+  "about-us-njord": "",
+  "about-us-tyr": "",
+  "about-us-idun": "",
+  "about-us-baldur": "",
+
+  "": ""
+}
